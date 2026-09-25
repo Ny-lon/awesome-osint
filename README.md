@@ -450,6 +450,7 @@ algorithms, knowledgebase and AI technology.
 * [OpinionCrawl](https://www.opinioncrawl.com)
 * [OSINTNova](https://app.osintnova.com/) - AI-powered OSINT platform for advanced digital investigations and intelligence analysis
 * [Predicta Search](https://predictasearch.com) - Search for social accounts with e-mail and phone
+* [Presence.sh](https://presence.sh) - Free, no sign-up tool that finds accounts by username, email, phone number or name across 600+ sites.
 * [Rival IQ](https://www.rivaliq.com)
 * [Social DownORNot](https://social.downornot.com)
 * [Social Searcher](https://www.social-searcher.com)
